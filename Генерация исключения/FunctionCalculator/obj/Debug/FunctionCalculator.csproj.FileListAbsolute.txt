@@ -1,0 +1,6 @@
+C:\Users\ulshinvv\source\repos\FunctionCalculator\FunctionCalculator\bin\Debug\FunctionCalculator.dll
+C:\Users\ulshinvv\source\repos\FunctionCalculator\FunctionCalculator\bin\Debug\FunctionCalculator.pdb
+C:\Users\ulshinvv\source\repos\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.csproj.AssemblyReference.cache
+C:\Users\ulshinvv\source\repos\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ulshinvv\source\repos\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.dll
+C:\Users\ulshinvv\source\repos\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.pdb
